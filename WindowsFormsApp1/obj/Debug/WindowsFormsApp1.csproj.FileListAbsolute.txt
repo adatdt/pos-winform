@@ -1,0 +1,10 @@
+D:\nutech\project_mandiri\app-net-pos\pos-app\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\nutech\project_mandiri\app-net-pos\pos-app\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\nutech\project_mandiri\app-net-pos\pos-app\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\nutech\project_mandiri\app-net-pos\pos-app\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\nutech\project_mandiri\app-net-pos\pos-app\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\nutech\project_mandiri\app-net-pos\pos-app\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\nutech\project_mandiri\app-net-pos\pos-app\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\nutech\project_mandiri\app-net-pos\pos-app\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\nutech\project_mandiri\app-net-pos\pos-app\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\nutech\project_mandiri\app-net-pos\pos-app\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
